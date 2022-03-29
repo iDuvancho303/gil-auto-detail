@@ -11,4 +11,11 @@ img {
     width: 12%
 }
 
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f9f6ee;
+    padding: 0px 30px;
+}
 /* END NAVBAR SECCTION */
