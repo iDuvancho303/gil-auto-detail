@@ -45,7 +45,7 @@ nav ul li a {
 
 
 .header-img{
-    background-image: url(images/5.jpg);
+    background-image: url(./images2/5.jpg); 
     background-size: cover;
     background-position: center center;
     height: 90vh;
