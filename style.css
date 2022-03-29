@@ -14,11 +14,15 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    color: rgba(10, 34, 97, 255);
     padding: 10px 20px;
 }
 
 .logo1 {
+    color: rgba(10, 34, 97, 255);
+    font-size: 30px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    text-decoration: underline;
 
 }
 
@@ -26,6 +30,15 @@ nav ul li {
     list-style-type: none;
     display: inline-block;
     padding: 10px 20px;
+}
+
+nav ul li a {
+    color: rgba(10, 34, 97, 255);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    text-transform: uppercase;
+
 }
 
 /* END NAVBAR SECTION */
