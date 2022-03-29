@@ -1,5 +1,11 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 
 
+/* START NAVBAR SECTION */
 .navbar {
     width: 100%;  
 }
@@ -8,4 +14,18 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    color: rgba(10, 34, 97, 255);
+    padding: 10px 20px;
 }
+
+.logo1 {
+
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+/* END NAVBAR SECTION */
