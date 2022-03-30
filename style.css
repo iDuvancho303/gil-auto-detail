@@ -72,3 +72,11 @@ nav ul li a {
 
 }
 /* END HEADER SECTION */
+
+
+/* MEDIA QUERY */
+@media only screen and (max-width: 800px) {
+    img {
+        width: 24%;
+    }
+}
