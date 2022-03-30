@@ -64,12 +64,10 @@ nav ul li a {
     font-size: 30px;
     color: #fff;
     font-weight: bolder;
-    padding: 5px 0px;
     margin: auto;
     width: 100%;
     text-align: center;
     text-transform: uppercase;
-
 }
 /* END HEADER SECTION */
 
@@ -89,7 +87,7 @@ nav ul li a {
             align-items: center;
             justify-content: space-between;
             background-color: #f9f6ee;
-            padding: 0px 3px;
+            padding: 0px 10px;
         }
 
         nav ul li {
@@ -113,5 +111,26 @@ nav ul li a {
             text-decoration: none;
             padding: 5px 10px;
         }
+        /* HEADER SECTION */
+        .header-img {
+            background-image: url(images2/5.jpg);
+            background-size: cover;
+            background-position: center center;
+            height: 28vh;
+            position: relative;
+            display: flex;
+        }
+
+        .welcome-section {
+            font-size: 15px;
+            color: #fff;
+            font-weight: bolder;
+            margin: auto;
+            width: 100%;
+            text-align: center;
+            text-transform: uppercase;
+        }
+
+        /* END HEADER SECTION */
 
      }
