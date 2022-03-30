@@ -75,8 +75,43 @@ nav ul li a {
 
 
 /* MEDIA QUERY */
-@media only screen and (max-width: 800px) {
-    img {
-        width: 24%;
-    }
-}
+@media only screen 
+    and (device-width: 428px) 
+    and (device-height: 926px) 
+    and (-webkit-device-pixel-ratio: 3) {
+        
+        img {
+            width: 30%;
+        }
+
+        nav {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background-color: #f9f6ee;
+            padding: 0px 3px;
+        }
+
+        nav ul li {
+            list-style-type: none;
+            display: flex;
+            padding: 0px 5px;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            text-transform: uppercase;
+            font-weight: bold;
+            font-size: 14px;
+            color: #0a2261;
+        }
+
+        #contact-btn {
+            font-size: 14px;
+            color: white;
+            background-color: #0a2261;
+            text-decoration: none;
+            padding: 5px 10px;
+        }
+
+     }
