@@ -83,12 +83,14 @@ nav ul li a {
 }
 
 .about-us-img {
-    display: flex;
     width: 50%;
 }
 
 .about-us-img img {
-    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    width: 33.3%;
 }
 /* END ABOUT SECTION */
 
