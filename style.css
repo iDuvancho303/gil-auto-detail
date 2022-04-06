@@ -71,6 +71,27 @@ nav ul li a {
 }
 /* END HEADER SECTION */
 
+/* ABOUT SECTION */
+#about-us {
+    padding: 30px 30px;
+    display: flex;
+    width: 100%;
+}
+
+.about-us-text {
+    width: 40%;
+}
+
+.about-us-img {
+    display: flex;
+    width: 50%;
+}
+
+.about-us-img img {
+    width: 80%;
+}
+/* END ABOUT SECTION */
+
 
 /* MEDIA QUERY */
 @media only screen 
