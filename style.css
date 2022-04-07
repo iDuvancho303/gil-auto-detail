@@ -92,6 +92,7 @@ nav ul li a {
 
 .about-us-text ul li {
     font-size: 25px;
+    list-style-type: none;
 }
 
 .about-us-img {
