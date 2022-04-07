@@ -73,13 +73,19 @@ nav ul li a {
 
 /* ABOUT SECTION */
 #about-us {
-    padding: 30px 30px;
+    padding: 40px 60px;
     display: flex;
     width: 100%;
 }
 
 .about-us-text {
     width: 40%;
+}
+
+.about-us-text h3 {
+    font-size: 35px;
+    color: #0a2261;
+    text-transform: uppercase;
 }
 
 .about-us-img {
