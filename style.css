@@ -76,6 +76,7 @@ nav ul li a {
     padding: 40px 60px;
     display: flex;
     width: 100%;
+    vertical-align: middle;
 }
 
 .about-us-text {
@@ -86,17 +87,26 @@ nav ul li a {
     font-size: 35px;
     color: #0a2261;
     text-transform: uppercase;
+    padding-bottom: 10px;
+}
+
+.about-us-text ul li {
+    font-size: 25px;
 }
 
 .about-us-img {
-    width: 50%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    width: 60%;
+    justify-content: space-evenly;
 }
 
 .about-us-img img {
-    display: flex;
     flex-wrap: wrap;
     padding: 10px;
-    width: 33.3%;
+    width: 45%;
+    justify-content: space-evenly;
 }
 /* END ABOUT SECTION */
 
