@@ -84,11 +84,12 @@ nav ul li a {
     padding: 40px 60px;
     display: flex;
     width: 100%;
-    vertical-align: middle;
 }
 
 .about-us-text {
     width: 40%;
+    margin: auto;
+    text-align: center;
 }
 
 .about-us-text h3 {
