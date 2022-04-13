@@ -10,6 +10,14 @@ body {
     font-family: 'Inconsolata', monospace;
 }
 
+hr {
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 2px solid #0a2261;
+    margin-top: 20px;
+
+}
+
 
 /* NAVBAR SECTION */ 
 
@@ -106,7 +114,7 @@ nav ul li a {
 .about-us-img img {
     flex-wrap: wrap;
     padding: 10px;
-    width: 45%;
+    width: 40%;
     justify-content: space-evenly;
 }
 /* END ABOUT SECTION */
