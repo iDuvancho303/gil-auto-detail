@@ -87,27 +87,21 @@ nav ul li a {
 }
 
 .about-us-text {
-    width: 40%;
+    width: 50%;
     margin: auto;
     text-align: center;
 }
 
-.about-us-text h3 {
-    font-size: 35px;
-    color: #0a2261;
-    text-transform: uppercase;
+
+.about-us-text ul  {
+    font-size: 30px;
+    list-style-type: none;
+    line-height: 2.5;
     text-align: center;
 }
 
-.about-us-text ul {
-    font-size: 30px;
-    list-style-type: none;
-    line-height: 1.5;
-    padding-top: 25px;
-}
-
 .about-us-img {
-    width: 100%;
+    width: 50%;
     display: flex;
     flex-wrap: wrap;
     width: 60%;
@@ -126,7 +120,7 @@ font-size: 35px;
 color: #0a2261;
 text-transform: uppercase;
 text-align: center;
-padding-top: 10px;
+padding-top: 20px;
 }
 
 /* SERVICES SECTION */
