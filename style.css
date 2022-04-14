@@ -133,7 +133,8 @@ nav ul li a {
 /* PACKAGES SECTION */
 #packages {
     display: flex;
-    padding: 20px;
+    padding: 20px 50px;
+
 }
 #packages ul li {
     list-style-type: square;
