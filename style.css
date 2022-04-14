@@ -92,17 +92,18 @@ nav ul li a {
     text-align: center;
 }
 
-.about-us-text h3 {
+.subtitle {
     font-size: 35px;
     color: #0a2261;
     text-transform: uppercase;
-    padding-bottom: 10px;
+    text-align: center;
 }
 
-.about-us-text ul li {
+.about-us-text ul {
     font-size: 30px;
     list-style-type: none;
     line-height: 1.5;
+    padding-top: 25px;
 }
 
 .about-us-img {
