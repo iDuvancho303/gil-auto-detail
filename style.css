@@ -135,13 +135,14 @@ nav ul li a {
     display: flex;
     padding: 20px;
 }
-.package1 ul li {
+#packages ul li {
     list-style-type: square;
 }
 
 #packages h3{
     font-size: 25px;
     color: #0a2261;
+    padding-bottom: 10px;
 }
 
 
