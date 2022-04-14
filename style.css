@@ -114,6 +114,10 @@ nav ul li a {
     width: 40%;
     justify-content: space-evenly;
 }
+
+.about-us-text ul li i {
+    color: #0a2261;
+}
 /* END ABOUT SECTION */
 .subtitle {
 font-size: 35px;
@@ -122,6 +126,7 @@ text-transform: uppercase;
 text-align: center;
 padding-top: 20px;
 }
+
 
 /* SERVICES SECTION */
 #packages {
