@@ -64,6 +64,8 @@ nav ul li a {
     height: 90vh;
     position: relative;
     display: flex;
+    margin-left: 80px;
+    margin-right: 80px;
 
 
 }
