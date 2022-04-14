@@ -89,6 +89,7 @@ nav ul li a {
 .about-us-text {
     width: 40%;
     margin: auto;
+    text-align: center;
 }
 
 .about-us-text h3 {
@@ -119,6 +120,12 @@ nav ul li a {
     justify-content: space-evenly;
 }
 /* END ABOUT SECTION */
+
+/* SERVICES SECTION */
+.services1 ul {
+    
+}
+/* END SERVICES SECTION */
 
 
 /* MEDIA QUERY */
