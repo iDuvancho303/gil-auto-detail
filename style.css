@@ -122,8 +122,12 @@ nav ul li a {
 /* END ABOUT SECTION */
 
 /* SERVICES SECTION */
-.services1 ul {
-    
+#services {
+    display: flex;
+    padding: 20px;
+}
+.services1 ul li {
+    list-style-type: square;
 }
 /* END SERVICES SECTION */
 
