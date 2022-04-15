@@ -135,6 +135,18 @@ nav ul li a {
 /* PACKAGES SECTION */
 #packages {
     display: flex;
+    justify-content: space-evenly;
+}
+
+.package1, .package2, .package3 i  {
+    text-align: center !important;
+    color: green;
+
+}
+
+/*
+#packages {
+    display: flex;
     padding: 20px 50px;
 
 }
@@ -147,6 +159,8 @@ nav ul li a {
     color: #0a2261;
     padding-bottom: 10px;
 }
+
+*/
 
 
 /* END PACKAGES SECTION */
