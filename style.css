@@ -129,7 +129,7 @@ nav ul li a {
     text-transform: uppercase;
     text-align: center;
     padding-top: 20px;
-    }
+}
 /* END ABOUT SECTION */
 
 /* PACKAGES SECTION */
@@ -177,6 +177,12 @@ button {
     font-weight: bold;
     border-style: none;
     border-radius: 5%;
+}
+
+button:hover {
+    cursor: pointer;
+    color: #0a2261;
+    background-color: #f9f6ee;
 }
 
 /*
