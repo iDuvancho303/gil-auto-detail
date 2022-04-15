@@ -151,6 +151,9 @@ nav ul li a {
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
+    font-size: 18px;
+    color: rgb(63, 63, 63);
+    font-weight: bold;
 }
 
 .package1 i, .package2 i, .package3 i {
