@@ -149,12 +149,20 @@ nav ul li a {
 
 .text {
     text-align: center;
-
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .package1 i, .package2 i, .package3 i {
     color: #0a2261;
     font-size: 50px;
+}
+
+.package1 p, .package2 p, .package3 p {
+    color: #0a2261;
+    margin-top: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 /*
