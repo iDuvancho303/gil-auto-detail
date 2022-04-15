@@ -144,7 +144,7 @@ nav ul li a {
 }
 
 .package1, .package2, .package3 {
-    border: 2px solid #0a2261;
+    border: 4px solid #0a2261;
     padding: 50px 60px;
     border-radius: 5%;
 }
@@ -154,7 +154,7 @@ nav ul li a {
     margin-top: 20px;
     margin-bottom: 20px;
     font-size: 18px;
-    color: rgb(63, 63, 63);
+    color: black;
     font-weight: bold;
 }
 
@@ -185,11 +185,22 @@ button:hover {
     text-decoration: underline;
     box-shadow: inset 200px 0 0 0 #fff;
 }
-
-
-
-
 /* END PACKAGES SECTION */
+
+/* SOCIAL SECTION */
+#social-media{
+
+}
+
+#social-media  p {
+
+}
+
+.social-links {
+
+}
+
+/* END SOCIAL SECTION */
 
 
 /* MEDIA QUERY */
