@@ -144,7 +144,8 @@ nav ul li a {
 
 .package1, .package2, .package3 {
     border: 2px solid #0a2261;
-    padding: 80px 60px;
+    padding: 50px 60px;
+    border-radius: 5%;
 }
 
 .text {
@@ -166,6 +167,16 @@ nav ul li a {
     margin-top: 30px;
     font-weight: bold;
     text-transform: uppercase;
+}
+
+button {
+    margin-top: 15px;
+    padding: 10px 10px;
+    background-color: #0a2261;
+    color: #fff;
+    font-weight: bold;
+    border-style: none;
+    border-radius: 5%;
 }
 
 /*
