@@ -165,7 +165,6 @@ nav ul li a {
 
 .package1 p, .package2 p, .package3 p {
     color: #0a2261;
-    margin-top: 30px;
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -186,23 +185,7 @@ button:hover {
     box-shadow: inset 200px 0 0 0 #fff;
 }
 
-/*
-#packages {
-    display: flex;
-    padding: 20px 50px;
 
-}
-#packages ul li {
-    list-style-type: square;
-}
-
-#packages h3{
-    font-size: 25px;
-    color: #0a2261;
-    padding-bottom: 10px;
-}
-
-*/
 
 
 /* END PACKAGES SECTION */
