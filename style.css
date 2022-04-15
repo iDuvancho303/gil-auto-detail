@@ -136,6 +136,7 @@ nav ul li a {
 #packages {
     display: flex;
     justify-content: space-evenly;
+    margin-bottom: 50px;
 }
 
 .package1, .package2, .package3   {
