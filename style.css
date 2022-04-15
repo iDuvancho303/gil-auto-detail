@@ -143,12 +143,18 @@ nav ul li a {
 }
 
 .package1, .package2, .package3 {
-    border: 3px solid red;
+    border: 2px solid #0a2261;
     padding: 80px 60px;
 }
 
-i {
-    color: red;
+.text {
+    text-align: center;
+
+}
+
+.package1 i, .package2 i, .package3 i {
+    color: #0a2261;
+    font-size: 50px;
 }
 
 /*
