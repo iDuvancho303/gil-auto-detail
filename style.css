@@ -193,12 +193,13 @@ text-align: center;
 }
 
 #social-media  p {
-
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+    margin-top: 10px;
 }
 
 .social-links {
-    display: flex;
-    justify-content: sp;
 }
 
 #profile-link {
