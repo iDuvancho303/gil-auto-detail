@@ -217,6 +217,16 @@ justify-content: space-between;
     margin-top: 80px;
 }
 
+.social-links {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#profile-link {
+    color: #0a2261;
+    font-size: 50px;
+}
+
 
 /* END SOCIAL SECTION */
 
