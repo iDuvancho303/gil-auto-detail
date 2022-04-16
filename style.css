@@ -189,7 +189,8 @@ button:hover {
 
 /* SOCIAL SECTION */
 #social{
-text-align: center;
+display: flex;
+justify-content: space-between;
 }
 
 #social-media  p {
