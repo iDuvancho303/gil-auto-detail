@@ -205,6 +205,14 @@ justify-content: space-between;
 
 .social-logos {
     width: 50%;
+    border: 3px solid green;
+}
+
+.social-logos p {
+    text-align: center;
+    color: #0a2261;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 
