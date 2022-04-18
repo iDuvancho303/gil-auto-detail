@@ -232,10 +232,21 @@ justify-content: space-between;
     color: #0a2261;
     font-size: 50px;
 }
-
-
 /* END SOCIAL SECTION */
 
+/* FOOTER SECTION */
+footer {
+    background-color: #0a2261;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+    font-weight: BOLD;
+}
+
+footer .fa-heart {
+    color: red;
+}
+/* END FOOTER SECTION */
 
 /* MEDIA QUERY */
 @media only screen 
