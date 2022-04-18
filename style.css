@@ -179,11 +179,11 @@ button {
     border-radius: 5%;
 }
 
-button:hover {
+/*button:hover {
     cursor: pointer;
     text-decoration: underline;
     box-shadow: inset 200px 0 0 0 #fff;
-}
+}*/
 /* END PACKAGES SECTION */
 
 /* SOCIAL SECTION */
