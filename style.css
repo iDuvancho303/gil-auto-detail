@@ -225,7 +225,10 @@ justify-content: space-between;
 .social-links {
     display: flex;
     justify-content: space-evenly;
-    margin-top: 80px;
+    /*margin-top: 80px;*/
+    height: 100%;
+    margin: auto 0;
+
 }
 
 #profile-link {
