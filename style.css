@@ -299,6 +299,20 @@ footer .fa-heart {
     text-align: center;
 }
 
+.intro-package-text h3 {
+    font-size: 25px;
+    color: #0a2261;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2;
+}
+
+.intro-package-text p {
+    margin-top: 20px;
+    padding: 0px 20px;
+    
+}
+
 .intro-package-img {
     width: 50%;
     margin: auto 0;
