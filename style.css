@@ -137,6 +137,7 @@ nav ul li a {
     display: flex;
     justify-content: space-evenly;
     margin-bottom: 50px;
+    height: 50vh;
 }
 
 .package1, .package2, .package3   {
@@ -147,6 +148,7 @@ nav ul li a {
     border: 4px solid #0a2261;
     padding: 50px 60px;
     border-radius: 5%;
+    height: 30vh;
 }
 
 .text {
