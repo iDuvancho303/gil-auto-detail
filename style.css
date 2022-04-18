@@ -287,6 +287,29 @@ footer .fa-heart {
 }
 /* END FOOTER SECTION */
 
+/* START INTRO PACKAGES SECTION */
+#intro-package-section {
+    display: flex;
+    margin-top: 25px;
+}
+
+.intro-package-text {
+    width: 50%;
+    margin: auto 0;
+    text-align: center;
+}
+
+.intro-package-img {
+    width: 50%;
+    margin: auto 0;
+    text-align: center;
+}
+
+.intro-package-img img{
+    width: 60%;
+}
+/* END INTRO PACKAGES SECTION
+
 /* MEDIA QUERY */
 @media only screen 
     and (device-width: 428px) 
