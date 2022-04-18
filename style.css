@@ -66,6 +66,7 @@ nav ul li a {
     display: flex;
     margin-left: 80px;
     margin-right: 80px;
+    margin-top: 25px;
 
 
 }
@@ -137,8 +138,7 @@ nav ul li a {
 #packages {
     display: flex;
     justify-content: space-evenly;
-    margin-bottom: 50px;
-    height: 40vh;
+    height: 35vh;
 }
 
 .package1, .package2, .package3   {
