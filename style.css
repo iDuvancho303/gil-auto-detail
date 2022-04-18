@@ -64,11 +64,7 @@ nav ul li a {
     height: 90vh;
     position: relative;
     display: flex;
-    margin-left: 80px;
-    margin-right: 80px;
     margin-top: 25px;
-
-
 }
 
 .welcome-section {
@@ -251,6 +247,15 @@ justify-content: space-between;
     text-align: center;
     margin: auto 0;
     font-size: 18px;
+}
+
+#contact-btn2 {
+    background-color: #fff;
+    text-decoration: none;
+    padding: 10px 10px;
+    margin-top: 50px !important;
+    color: #0a2261;
+    font-weight: bold;
 }
 
 .contact2 {
