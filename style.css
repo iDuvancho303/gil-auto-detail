@@ -240,7 +240,7 @@ justify-content: space-between;
 /* CONTACT SECTION */
 #contact {
     display: flex;
-    height: 35vh;
+    height: 40vh;
     margin-top: 25px;
     background-color: #0a2261;
 }
@@ -250,14 +250,17 @@ justify-content: space-between;
     color: #fff;
     text-align: center;
     margin: auto 0;
+    font-size: 18px;
 }
 
 .contact2 {
     width: 50%;
+    margin: auto 0;
 }
 
 .contact2 img {
     width: 50%;
+    opacity: 0.8;
 }
 /* END CONTACT SECTION */
 
