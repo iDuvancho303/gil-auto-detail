@@ -240,13 +240,16 @@ justify-content: space-between;
 /* CONTACT SECTION */
 #contact {
     display: flex;
-    height: 30vh;
+    height: 35vh;
     margin-top: 25px;
     background-color: #0a2261;
 }
 
 .contact1 {
     width: 50%;
+    color: #fff;
+    text-align: center;
+    margin: auto 0;
 }
 
 .contact2 {
