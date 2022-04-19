@@ -334,6 +334,17 @@ span {
 }
 /* END INTRO PACKAGES SECTION
 
+/* START PACKAGES 2 SECTION */
+#packages-second-page {
+
+}
+
+.package-second {
+
+}
+
+
+/* END PACKAGES 2 SECTION */
 /* MEDIA QUERY */
 @media only screen 
     and (device-width: 428px) 
