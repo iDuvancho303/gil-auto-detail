@@ -290,7 +290,8 @@ footer .fa-heart {
 /* START INTRO PACKAGES SECTION */
 #intro-package-section {
     display: flex;
-    margin-top: 25px;
+    margin-top: 30px;
+    background-color: #0a2261;
 }
 
 .intro-package-text {
@@ -312,7 +313,7 @@ footer .fa-heart {
     padding: 0px 20px;
     font-size: 18px;
     line-height: 2.0rem;
-    color: black;
+    color: #fff;
 }
 
 span {
@@ -327,7 +328,7 @@ span {
 }
 
 .intro-package-img img{
-    width: 60%;
+    width: 60
 }
 /* END INTRO PACKAGES SECTION
 
