@@ -336,11 +336,16 @@ span {
 
 /* START PACKAGES 2 SECTION */
 #packages-second-page {
-
+display: flex;
+justify-content: center;
 }
 
-.package-second {
+.package-second  {
+    text-align: center;
+}
 
+.package-second ul {
+    list-style-type: square;
 }
 
 
