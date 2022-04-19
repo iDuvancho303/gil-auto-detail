@@ -337,7 +337,7 @@ span {
 /* START PACKAGES 2 SECTION */
 #packages-second-page {
 display: flex;
-justify-content: center;
+justify-content: space-between;
 }
 
 .package-second  {
