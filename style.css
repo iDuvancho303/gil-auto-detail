@@ -348,6 +348,8 @@ justify-content: space-between;
 
 .package-second ul {
     list-style-type: square;
+    padding: 0px 40px;
+    text-align: left;
 }
 
 
