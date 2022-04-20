@@ -342,7 +342,6 @@ justify-content: space-between;
 
 .package-second  {
     text-align: center;
-    border: 3px solid green;
     width: 50%;
 }
 
@@ -350,7 +349,7 @@ justify-content: space-between;
     list-style-type: square;
     padding: 0px 40px;
     text-align: left;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .package-second li {
@@ -359,6 +358,11 @@ justify-content: space-between;
 
 
 /* END PACKAGES 2 SECTION */
+
+
+
+
+
 /* MEDIA QUERY */
 @media only screen 
     and (max-width: 430px)  {
