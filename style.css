@@ -571,26 +571,26 @@ justify-content: space-between;
 /* END INTRO PACKAGES SECTION */
 
 /* START PACKAGES 2 SECTION */
-#packages-second-page {
-    display: flex;
-    justify-content: space-between;
-    }
+        #packages-second-page {
+            display: flex;
+            justify-content: space-between;
+        }
     
-    .package-second  {
-        text-align: center;
-        width: 50%;
-    }
+        .package-second  {
+            text-align: center;
+            width: 50%;
+        }
     
-    .package-second ul {
-        list-style-type: square;
-        padding: 0px 40px;
-        text-align: left;
-        margin-top: 30px;
-    }
+        .package-second ul {
+            list-style-type: square;
+            padding: 0px 40px;
+            text-align: left;
+            margin-top: 30px;
+        }
     
-    .package-second li {
-        color: #0a2261;
-    }
+        .package-second li {
+            color: #0a2261;
+        }
     /* END PACKAGES 2 SECTION */
 
 }
