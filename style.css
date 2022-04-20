@@ -571,25 +571,29 @@ justify-content: space-between;
 /* END INTRO PACKAGES SECTION */
 
 /* START PACKAGES 2 SECTION */
+        .subtitle {
+            font-size: 20px;
+        }
         #packages-second-page {
             display: flex;
+            flex-direction: column; *
             justify-content: space-between;
         }
     
         .package-second  {
             text-align: center;
-            width: 50%;
+            width: 100%; 
+            margin-bottom: 30px;
+        }
+
+        .package-second i {
+            font-size: 25px;
         }
     
         .package-second ul {
             list-style-type: square;
-            padding: 0px 40px;
-            text-align: left;
-            margin-top: 30px;
-        }
-    
-        .package-second li {
-            color: #0a2261;
+            padding: 0px 30px;
+            margin-top: 15px;
         }
     /* END PACKAGES 2 SECTION */
 
